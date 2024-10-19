@@ -20,6 +20,7 @@ function Tabela() {
 
   return (
     <>
+    <h1>Tabela usando destruturação de arrays</h1>
       <table>
         <tbody>
           <tr>
